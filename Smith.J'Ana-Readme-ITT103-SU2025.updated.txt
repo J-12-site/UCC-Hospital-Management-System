@@ -1,0 +1,45 @@
+Authors: J'Ana Smith
+
+Date Created: July 10, 2025
+
+Course: ITT103
+
+GitHub Public URL to Code: 
+
+Program Purpose:
+
+This program is a Hospital Management System that allows users to register patients and doctors, book and cancel appointments, view patient and doctor information, and generate bills. It aims to provide a user-friendly interface for efficiently organizing hospital records.
+
+How to Run the Program:
+
+1.  Ensure you have Python 3 installed on your device
+2.  Save the program file
+3. Open a command prompt or terminal
+4. Run the program using Python
+
+Required Modifications:
+
+1. Add file saving
+2. Add a login system for access
+3. Add appointment errors
+
+
+Assumptions and limitations:
+
+
+Assumption:
+
+1. The data is not saved properly
+2. The user input is to be correct
+
+Limitations:
+
+1. Text-Based Only
+2. No access/ login Control
+3. System malfunction
+
+
+
+
+
+ 
