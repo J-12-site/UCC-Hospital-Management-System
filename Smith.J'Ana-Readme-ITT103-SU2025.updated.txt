@@ -4,7 +4,7 @@ Date Created: July 10, 2025
 
 Course: ITT103
 
-GitHub Public URL to Code: 
+GitHub Public URL to Code: https://github.com/J-12-site/UCC-Hospital-Management-System/blob/main/SmithJ'Ana-AscIT_Program-ITT103-SU2025.mp4i.py
 
 Program Purpose:
 
