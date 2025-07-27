@@ -6,7 +6,7 @@ Course: ITT103
 
 GitHub Public URL to Code: https://github.com/J-12-site/UCC-Hospital-Management-System/blob/main/SmithJ'Ana-AscIT_Program-ITT103-SU2025.mp4i.py
 
-Program Purpose:
+Program Purpose: The Hospital Management System is a Python program that manages basic hospital operations.  It enables users to register patients and doctors, schedule appointments, and review records.  The system uses object-oriented programming to organize data and prevent doctors from scheduling themselves twice, making it a simple yet effective tool for managing hospital workflows.
 
 This program is a Hospital Management System that allows users to register patients and doctors, book and cancel appointments, view patient and doctor information, and generate bills. It aims to provide a user-friendly interface for efficiently organizing hospital records.
 
